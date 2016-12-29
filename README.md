@@ -113,6 +113,7 @@ While a CRC can detect errors in the message payload, missing or corrupted data 
 * [Jay Kreps - The Log](https://engineering.linkedin.com/distributed-systems/log-what-every-software-engineer-should-know-about-real-time-datas-unifying)
 * [apache kafka](https://kafka.apache.org/documentation.html#log)
 * [jedisct1/flowgger](https://github.com/jedisct1/flowgger)
+* [ardb](https://github.com/yinqiwen/ardb)
 * [bogdanovich/siberite](https://github.com/bogdanovich/siberite)
 * [sclasen/event-shuttle](https://github.com/sclasen/event-shuttle)
 * [redis persistence](http://redis.io/topics/persistence)
